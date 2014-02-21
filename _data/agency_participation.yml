@@ -1,0 +1,31 @@
+
+
+Department of Agriculture:
+ API: yes
+ Hub_url: http://www.usda.gov/developers
+ Read_write: no
+
+Economic Research Service
+ API: yes
+ Hub_url: http://www.ers.usda.gov/developer.aspx
+ Read_write: no
+
+Department of Commerce
+ API: yes
+ Hub_url: http://www.commerce.gov/developer
+ Read_write: no
+
+Bureau of Economic Analysis
+ API: yes
+ Hub_url: http://www.bea.gov/api
+ Read_write: no
+
+Census Bureau
+ API: yes
+ Hub_url: http://www.census.gov/developers/
+ Read_write: no
+
+International Trade Administration
+ API: yes
+ Hub_url: http://developer.trade.gov/
+ Read_write: no
