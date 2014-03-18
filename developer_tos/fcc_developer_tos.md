@@ -1,4 +1,3 @@
-
 ## FCC Developer Terms of Service
 
 The Federal Communications Commission ("the FCC") offers some of its public data in machine readable format via an Application Programming Interface ("API").  This service is offered subject to your acceptance of the terms and conditions contained herein as well as any relevant sections of the [FCC.gov Website Policies and Privacy Policy](http://www.fcc.gov/article/privacy-policy-fccgov) (collectively, the "Agreement").
@@ -55,6 +54,6 @@ This Agreement constitutes the entire Agreement between the FCC and you concerni
 
 Any disputes arising out of this Agreement and access to or use of the API shall be governed by federal law.
 
-### ### No Waiver of rights
+### No Waiver of rights
 
 The FCC's failure to exercise or enforce any right or provision of this Agreement shall not constitute waiver of such right or provision.
