@@ -1,5 +1,4 @@
 
-
 ## NIDA Terms of Service
 
 ### General Information
@@ -84,6 +83,7 @@ healthfinder.gov content is frequently updated every 2 weeks, typically around t
 
 1. You may use any FCC API to develop a service or service to search, display, analyze, retrieve, view and otherwise 'get' information from FCC data.
 2. You may use the FMCSA API to develop a service or service to search, display, analyze, retrieve, view and otherwise ‘get’ information from FMCSA data. However, you may not to use the data or information obtained through access to this API for purposes of invasion of privacy (under appropriation, intrusion, public disclosure of private facts, false light in the public eye or other legal theory), defamation, slander, libel, violation of right of publicity, infringement of trademark, copyright or other intellectual property rights, property damage, or causing personal injury or death.
+3.  You may use the SFTool API to develop a service or services to search, display, analyze, retrieve, and view SFTool data. Data accessed through the SFTool website does not include controls over its end use. But, as the data owners and/or authoritative source, SFTool retains all version control. Once data has been downloaded from our site, the U.S. Government cannot vouch for the quality or currentness of the analyses or products created based on the data.
 
 ### Attribution
 
