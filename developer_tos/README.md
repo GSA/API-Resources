@@ -1,4 +1,3 @@
-
 ## Background 
 
 A collaborative effort to flesh out a developer-friendly terms of service and/or to consider the alternatives.  Begun with [this thread on the US Government API listserve](https://groups.google.com/forum/#!topic/us-government-apis/0yix5bEWbFo).
@@ -12,6 +11,5 @@ A collaborative effort to flesh out a developer-friendly terms of service and/or
 * [Limitations on End Use](https://github.com/GSA/API-Resources/issues/7)
 * [Contract Enforcement/Meta](https://github.com/GSA/API-Resources/issues/8)
 * [Limiting Agency Liability](https://github.com/GSA/API-Resources/issues/9)
-  
 * [TOS v. SLA?](https://github.com/GSA/API-Resources/issues/10)
 
