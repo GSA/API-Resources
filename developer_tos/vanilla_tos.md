@@ -1,9 +1,9 @@
 # API Terms of Service Agreement
 
-The U.S. AGENCY ("AGENCY”) offers some of its public data in machine-readable format through an API, a service located at https://open.AGENCY.gov. Use of the data made available via the API is generally unrestricted (see “Data Rights and Usage”). However, the service through which we make that data available is offered subject to your acceptance of the terms and conditions contained herein as well as any relevant sections of the AGENCY Website Policies (http://www.AGENCY.gov/WebsitePolicies/default.htm).
+The U.S. AGENCY ("AGENCY”) offers some of its public data in machine-readable format through an API (Application Programming Interface), a service located at https://open.AGENCY.gov. Use of the data made available via the API is generally unrestricted ([see “Data Rights and Usage”](#data-rights-and-usage)). However, the service through which we make that data available is offered subject to your acceptance of the terms and conditions contained herein as well as any relevant sections of the AGENCY Website Policies (http://www.AGENCY.gov/WebsitePolicies/default.htm).
 
 ## Scope
-The service (“API” , or Application Programming Interface) through which you may access AGENCY public data is subject to these terms. Use of the API constitutes acceptance to this Agreement.
+The service (“API”) through which you may access AGENCY public data is subject to these terms. Use of the API constitutes acceptance to this Agreement.
 
 ## Data Rights and Usage
 Unless otherwise noted, the content, data, documentation, code, and related materials associated with the API is public domain and made available with a Creative Commons CC0 1.0 Universal (http://creativecommons.org/publicdomain/zero/1.0/legalcode) dedication. In short, AGENCY waives all rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission. AGENCY makes no warranties about the work, and disclaims liability for all uses of the work, to the fullest extent permitted by applicable law.
